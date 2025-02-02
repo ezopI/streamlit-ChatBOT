@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+langchain-openai
+python-dotenv
+bs4
+unstructured
+fake-useragent
