@@ -1,12 +1,9 @@
 import tempfile
-
 import streamlit as st # Biblioteca para rodar o código localmente
-
 from langchain.memory import ConversationBufferMemory
 from langchain_openai import ChatOpenAI
 from langchain_groq import ChatGroq
 from langchain.prompts import ChatPromptTemplate
-
 import requests
 import time
 from loaders import *
