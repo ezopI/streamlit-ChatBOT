@@ -11,10 +11,6 @@ import requests
 import time
 from loaders import *
 
-# ChatGPT_KEY = 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
-# Groq_KEY = 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
-# DeepSeek_KEY = sk-23b6a0a6e0f1457c98b573a334e5da8d
-
 TIPOS_ARQUIVOS_VALIDOS = [
     'Site',
     'Youtube',
